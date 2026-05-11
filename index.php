@@ -1,1 +1,1 @@
-<?php echo "<h1>Despliegue Automático con DevOps</h1>"; ?>
+<?php echo "<h1>INTEGRACION EXITOSA</h1>"; ?>
